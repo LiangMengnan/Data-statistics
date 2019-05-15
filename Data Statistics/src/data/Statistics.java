@@ -12,10 +12,6 @@ import java.util.regex.Pattern;
 
 public class Statistics {
 
-    public static void main(String[] args) {
-        Pattern a = Pattern.compile("Date.UTC[(]2011");
-        new Statistics().get(a);
-    }
     private String compare;
     private String type;
     private String month;
