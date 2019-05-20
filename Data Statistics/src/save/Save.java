@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.io.*;
 
+/**
+ * 文件保存、文件打开、txt文档写入
+ */
 public class Save {
 
     public static String fileSave(Component parent,String name) {

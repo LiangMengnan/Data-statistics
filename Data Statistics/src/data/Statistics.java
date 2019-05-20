@@ -10,6 +10,9 @@ import java.text.DecimalFormat;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * 获取数据、对数据进行排序、打印
+ */
 public class Statistics {
 
     private String compare;

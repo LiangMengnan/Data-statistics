@@ -1,5 +1,8 @@
 package data;
 
+/**
+ * 存放数据
+ */
 public class Data{
 
     private String language;

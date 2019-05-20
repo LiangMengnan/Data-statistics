@@ -6,6 +6,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * 主窗体
+ * 窗体控件
+ */
 public class FrameBase extends JFrame{
     private JComboBox<String> chooseLanguage;
     private JComboBox<String> chooseYear;

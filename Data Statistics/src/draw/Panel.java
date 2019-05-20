@@ -9,6 +9,9 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 
+/**
+ * 绘图面板
+ */
 class Panel extends JPanel {
     private int width;
     private int height;
